@@ -1,1 +1,2 @@
-# Racing-Prob
+# synchronousBallMovement
+Ball moving synchronously
